@@ -3,6 +3,21 @@
 Team Members:
 Mark Morales (19058467) & Junki Manabe (21311382)
 
+**ROLE DISTRIBUTION**
+Mark:
+Research on Workplace/School/more formal environments for topic
+Website building and designer
+Main communicator to lecturer/team member 
+
+
+
+Junki:
+Research on more everyday applications for topic
+Website building overseer/manager
+Project Manager
+
+
+
 Project Proposal: The Benefits of the Usage of Communication Software (Discord/Skype/Zoom/etc) during COVID-19 times for Remote Work/Learning/etc
 
 
@@ -39,5 +54,3 @@ Hunter, P. (2019). Remote working in research. _Embo Reports_. _20_(1).
  
 **very cool thanks internet**
 https://www.webucator.com/how-to/how-create-css-external-style-sheet.cfm
-
-
